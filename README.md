@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Malhotra
-- 👀 I’m interested in Full-stack Web Development.
-- 🌱 I’m currently learning Js frameworks and deveoplments and lookign for oppertunities to imporve my skills.
+- 👀 I’m interested in coding and development.
+- 🌱 I’m a recent graduate and looking for oppertunity to work for in  great environment where i can learn and grow .
 - 📫 You can reach me through my linkedIn- @shubhammalhotra09 
 
 <!---
